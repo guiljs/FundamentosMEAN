@@ -1,4 +1,4 @@
-require('./ex04_global');
+const global_ex = require('./ex04_global');
 
 console.log(global.obj.name);
 
