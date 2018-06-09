@@ -1,2 +1,2 @@
-const ola = () => console.log('Olá node')
+const ola = () => console.log('Olá node!')
 setInterval(ola, 1000)
