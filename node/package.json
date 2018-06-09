@@ -1,0 +1,23 @@
+{
+  "name": "exercicios_node",
+  "version": "1.0.0",
+  "description": "Exercícios com Nodejs",
+  "main": "ex01.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiljs/FundamentosMEAN.git"
+  },
+  "author": "Guiherme de Jesus Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiljs/FundamentosMEAN/issues"
+  },
+  "homepage": "https://github.com/guiljs/FundamentosMEAN#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
